@@ -1,3 +1,5 @@
+package Assignment_Problems.s1;
+
 public class checkDuplicateSeats {
 
     public static void main(String[] args) {
