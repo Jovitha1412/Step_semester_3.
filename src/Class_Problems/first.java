@@ -1,4 +1,4 @@
-package Class_Problems;
+package Class_Problems.s1;
 
 import java.util.Scanner;
 
