@@ -1,4 +1,4 @@
-package Class_Problems;
+package Class_Problems.s9;
 
 import java.util.Scanner;
 
